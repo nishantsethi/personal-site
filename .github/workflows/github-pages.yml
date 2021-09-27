@@ -21,11 +21,11 @@ jobs:
       env:
         NODE_ENV: production
         # Remove this line if you would like to skip using google analytics
-        REACT_APP_GA_TRACKING_ID: UA-68649021-1
+        REACT_APP_GA_TRACKING_ID: UA-39547708-5
         # This is set automatically by github
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: | 
+      run: |
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/mldangelo/personal-site.git
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/nishantsethi/personal-site.git
           npm run deploy
