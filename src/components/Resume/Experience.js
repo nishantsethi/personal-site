@@ -9,10 +9,10 @@ const Experience = ({ data }) => (
     <div className="title">
       <h3>Experience</h3>
     </div>
-    {data.map((job) => (
+    {data.map((job,index) => (
       <Job
         data={job}
-        key={job.company}
+        key={index}
       />
     ))}
   </div>
