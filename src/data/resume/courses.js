@@ -73,7 +73,7 @@ const courses = [
     university: 'SRM',
   },
   {
-    title: 'Software Engineering Concepts',
+    title: 'Software Engineering  Concepts',
     number: '',
     link: '',
     university: 'SRM',
