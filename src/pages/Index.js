@@ -12,11 +12,11 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Hi, I&apos;m Nishant</Link></h2>
           <p>
-            Software Developer with experience in Django, Flask, FastAI, Machine Learning and MLOps
+            Software Developer with experience in Django, Flask, FastAPI, Machine Learning and MLOps
           </p>
         </div>
       </header>
-      <p> Welcome to my website. I am software developer with interest in building high perferformance
+      <p> Welcome to my website. I am software developer with interest in building high performance
         scalable apps. Over the years, I have worked on various technology for different projects.
         Please feel free to read more <Link to="/about">about me</Link>,
         or you can check out my {' '}
