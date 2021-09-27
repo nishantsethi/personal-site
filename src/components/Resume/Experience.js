@@ -9,10 +9,10 @@ const Experience = ({ data }) => (
     <div className="title">
       <h3>Experience</h3>
     </div>
-    {data.map((job,index) => (
+    {data.map((job) => (
       <Job
         data={job}
-        key={index}
+        key={Math.random()}
       />
     ))}
   </div>
