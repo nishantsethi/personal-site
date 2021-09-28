@@ -7,7 +7,7 @@ const positions = [
     points: [
       'Designed and developed core architecture for the Monitoring Pipeline in the Machine Learning Life-Cycle.',
       'Built production, on-line, end-to-end optimized machine learning pipelines with Pandas, Numpy, PySpark, Tensorflow data validation, Scikit, Tensorflow and deployed to AzureML.',
-      'Performed various automations for monotonus/ legacy application that has reduced the manual inputs to 0.',
+      'Performed various automations for monotonous/ legacy application that has reduced the manual inputs to 0.',
       'Built solutions for live monitoring and deployments for Data applications using Bash, Python, Django, DRF and Flask.',
       'Built IT application for Nested JSON parsing using Python, built the web functionality with Django.',
       'Built ETL pipelines using PySpark, Informatica',
