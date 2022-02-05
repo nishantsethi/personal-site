@@ -19,6 +19,9 @@ const Navigation = () => (
             <Link to={l.path}>{l.label}</Link>
           </li>
         ))}
+        <li key="BLOG">
+          <a href="https://blog.nishantsethi.com" target="_blank" rel="noreferrer">BLOG</a>
+        </li>
       </ul>
     </nav>
     <Hamburger />

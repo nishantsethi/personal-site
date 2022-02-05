@@ -28,7 +28,6 @@ I spend most of my time writing code for [NCR](https://ncr.com), I work in the d
 - I have been to highest motorable road in the world on my [motorcycle](https://www.tvsmotor.com/tvs-apache/Apache-RTR-180) 2 months after I got my license.
 - I often 3D desgin and print a lot of stuffs that I find I am missing.
 - I have created websites professionally while I was in school.
-- I was maybe the youngest tech reviewer once. I was in high school when brands were flying me to their launch events in 5-star Resorts.
 - I am an audiophile
 
 # I dream of
