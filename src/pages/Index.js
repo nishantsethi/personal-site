@@ -23,8 +23,12 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
-      </p>
 
+      </p>
+      <p>
+        I have also recently started a personal blog at <a href="https://blog.nishantsethi.com" target="_blank" rel="noreferrer"> blog.nishantsethi.com</a>. I will be posting about tech, starups and about my side hustles,
+        so feel free to subscribe to the newsletter once you are on the blog!
+      </p>
     </article>
   </Main>
 );
