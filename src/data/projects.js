@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Link Shortner Django',
+    subtitle: 'Simple smooth link shortner',
+    link: 'https://shortlinker.herokuapp.com/',
+    image: '/images/projects/shortlink.jpg',
+    date: '2022-01-20',
+    desc:
+      'A Link shortner that automatically generates a link for your long link '
+      + 'Built using Django and Python and hosted on Heroku '  },
+  {
     title: 'Passbit.io',
     subtitle: 'Collabarative Password Manager',
     link: 'https://passbit.io',
