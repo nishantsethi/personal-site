@@ -8,7 +8,8 @@ const data = [
     date: '2022-01-20',
     desc:
       'A Link shortner that automatically generates a link for your long link '
-      + 'Built using Django and Python and hosted on Heroku '  },
+      + 'Built using Django and Python and hosted on Heroku ',
+  },
   {
     title: 'Passbit.io',
     subtitle: 'Collabarative Password Manager',
